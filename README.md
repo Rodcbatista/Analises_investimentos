@@ -1,0 +1,2 @@
+# Analises_investimentos
+Sou apaixonado por investimentos. Quando procurei o mundo da programação, foi com o intuito de melhorar minhas análises como investidor e melhorar a rentabilidade da minha carteira. Hoje faço como uma oportunidade de aprendizado (programação, data science, AI, etc). Aqui pretendo colocar todas minhas idéias, como tipos de investimentos recomendados (API), análise de correlações entre ativos, um "index" de fundos e seus retornos históricos, análises fundamentalistas, entre outros.
